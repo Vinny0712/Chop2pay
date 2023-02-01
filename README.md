@@ -15,6 +15,6 @@
 ##### 6. pip install -r requirements.txt
 ##### 7.python CashierScreen.py 
 
-### now you should be able to see the screen
+##### now you should be able to see the screen
 
 

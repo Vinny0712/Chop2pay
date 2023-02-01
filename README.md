@@ -1,5 +1,10 @@
 # Chop2pay
 
+## Chop2Pay is a program designed for checkout kiosks at supermarkets using computer vision to replace barcode scanning to increase efficiency and reduce queueing time. It is made using Kivy for the interface, [Peeking duck library](https://peekingduck.readthedocs.io/en/stable/) for computer vision and pandas to read prices from excel sheet that can be modified by supermarket staff.
+
+
+
+
 ## Installation
 
 ### 1.create an empty folder and go inside it . Open up command prompt and type the following:
@@ -11,3 +16,5 @@
 ### 7.python CashierScreen.py 
 
 ### now you should be able to see the screen
+
+
